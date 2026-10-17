@@ -1,0 +1,15 @@
+{
+    "name": "langnang/helpers",
+    "autoload": {
+        "psr-4": {
+            "Langnang\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "langnang",
+            "email": "langnang.chen@outlook.com"
+        }
+    ],
+    "require": {}
+}
