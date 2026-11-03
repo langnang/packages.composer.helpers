@@ -1,6 +1,6 @@
 <?php
 
-function file_download($url, $destination)
+function fs_download($url, $destination)
 {
   // Initialize a cURL session
   $ch = curl_init($url);
