@@ -2,7 +2,8 @@
 
 ## Class
 
-[](../src/FileSystem.php ':include :type=code')
+[](../src/_readme.md ':include :type=code')
+[](../src/_e.php ':include :type=code')
 
 ## `fs_copy`
 
