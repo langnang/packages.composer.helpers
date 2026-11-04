@@ -1,6 +1,6 @@
 <?php
 
-class Filesystem
+class FileSystem
 {
   public static function createDirectory($path)
   {
