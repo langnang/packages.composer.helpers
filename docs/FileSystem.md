@@ -2,8 +2,8 @@
 
 ## Class
 
-[](../src/_readme.md ':include :type=code')
-[](../src/_e.php ':include :type=code')
+[](../src/_readme.md ':include :type=code text')
+[](../src/_e.php ':include :type=code text')
 
 ## `fs_copy`
 
