@@ -3,7 +3,7 @@
 /**
  * 
  */
-class DB
+class Database
 {
 
   public $table;
